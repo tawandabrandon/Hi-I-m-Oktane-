@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Oktane | Beta release 1.0</title>
+  
+  
+  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700'>
+  <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+
+  <link rel="stylesheet" href="static/style.css">
+
+  
+</head>
+
+<body ng-app="myApp" ng-controller="oktane">
+  <div class="menu">
+    <a href="#" class="back"><i class="fa fa-angle-left"></i> <img src="static/oktane.jpg" draggable="false"/></a>
+    <div class="name">Oktane</div>
+    <div class="members" id="online"><b>{a status a}</b></div>
+  </div>
+  <ol class="chat" id="chats">
+
+  </ol>
+
+  <div class="typezone" >
+    <input type="text" ng-model="message" placeholder="type message"><button ng-click="send()" class="send" value=""></button>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+  <script src="static/app.js"></script>
+
+</body>
+</html>

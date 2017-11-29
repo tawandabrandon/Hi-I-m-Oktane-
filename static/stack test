@@ -1,0 +1,20 @@
+<div id="container">
+<div>
+<img src="https://placehold.it/360x360">
+<h1>
+First person's name
+</h1>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id ex ut nunc pharetra congue. Morbi ut lectus vulputate nunc congue convallis. Nunc ultricies quam ac dolor tincidunt feugiat. Integer condimentum metus leo, a interdum felis molestie in. Ut non diam non ligula aliquam iaculis vestibulum quis urna. Maecenas efficitur purus et elementum auctor. Praesent condimentum id sapien vitae tempor. Ut ultrices accumsan lectus, quis ullamcorper velit auctor at. Suspendisse bibendum, odio gravida rhoncus pretium, enim elit porta massa, quis sagittis dolor sapien vel nulla. Nullam et enim ac tellus aliquam pulvinar. Proin et bibendum dui.
+</p>
+<img src="https://placehold.it/360x360">
+</div>
+<div>
+<h1>
+Second person's name
+</h1>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id ex ut nunc pharetra congue. Morbi ut lectus vulputate nunc congue convallis. Nunc ultricies quam ac dolor tincidunt feugiat. Integer condimentum metus leo, a interdum felis molestie in. Ut non diam non ligula aliquam iaculis vestibulum quis urna. Maecenas efficitur purus et elementum auctor. Praesent condimentum id sapien vitae tempor. Ut ultrices accumsan lectus, quis ullamcorper velit auctor at. Suspendisse bibendum, odio gravida rhoncus pretium, enim elit porta massa, quis sagittis dolor sapien vel nulla. Nullam et enim ac tellus aliquam pulvinar. Proin et bibendum dui.
+</p>
+</div>
+</div>
